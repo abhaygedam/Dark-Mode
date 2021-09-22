@@ -1,0 +1,154 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  display: flex;
+}
+
+.dashboard {
+  font-size: 25px;
+  margin: 10px 20px;
+}
+
+.navbar button {
+  width: 100px;
+  height: 40px;
+  margin: 10px 40px;
+}
+
+.content {
+  display: flex;
+  margin: 0 40px;
+}
+
+.content button {
+  width: 100px;
+  height: 40px;
+  margin: 10px 40px;
+}
+
+.form {
+  width: 50%;
+  height: 400px;
+  margin: 40px 40px;
+}
+
+.form input {
+  width: 50%;
+  height: 30px;
+  margin: 20px auto;
+  border: none;
+  border-bottom: 1px solid black;
+  border-radius: 10px;
+}
+
+.active {
+  font-size: 22px;
+}
+
+.aug a {
+  color: grey;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 20px;
+}
+
+.name {
+  display: flex;
+  justify-content: space-between;
+}
+.points {
+  display: flex;
+  margin-right: 20px;
+}
+
+.pname {
+  width: 200px;
+}
+
+.nameBox {
+  display: flex;
+}
+
+.pname p {
+  margin: 0px;
+}
+.img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 0px 20px;
+}
+
+.prof {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 20px;
+}
+
+.grey {
+  color: gray;
+}
+
+.line {
+  display: flex;
+}
+
+.color {
+  width: 60%;
+  height: 5px;
+  background-color: green;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.light {
+  width: 35%;
+  height: 4px;
+  background-color: rgb(83, 83, 83);
+  margin-right: 20px;
+  margin-top: 21px;
+  margin-left: -2px;
+  border-radius: 20px;
+}
+
+.color2 {
+  width: 45%;
+  height: 5px;
+  background-color: rgb(26, 74, 145);
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.light2 {
+  width: 50%;
+  height: 4px;
+  background-color: rgb(83, 83, 83);
+  margin-right: 20px;
+  margin-top: 21px;
+  margin-left: -2px;
+  border-radius: 20px;
+}
+
+.color3 {
+  width: 30%;
+  height: 5px;
+  background-color: rgb(165, 64, 131);
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.light3 {
+  width: 60%;
+  height: 4px;
+  background-color: rgb(83, 83, 83);
+  margin-right: 20px;
+  margin-top: 21px;
+  margin-left: -2px;
+  border-radius: 20px;
+}
